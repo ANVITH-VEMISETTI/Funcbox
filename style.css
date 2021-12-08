@@ -1,0 +1,83 @@
+.background
+{
+    position: relative;
+    width: 420px;
+    height: 595px;
+    border: 2px spolid red;
+
+    background-image: url("image 82.png");
+}
+
+.sun
+{
+    position: absolute;
+    width: 156px;
+    height: 124px;
+    left: 130px;
+    top: 0px;
+    border: 2px spolid red;
+
+    background-image: url("image-removebg-preview - 2021-12-05T203558 1.png");
+}
+
+.corrot
+{
+    position: absolute;
+    width: 311.67px;
+    height: 305.32px;
+    left: 158.21px;
+    top: 113px;
+    
+    background-image: url('image-removebg-preview - 2021-12-05T203037 1.png');
+    transform: rotate(23.6deg);
+}
+
+.scale
+{
+    position: absolute;
+    width: 424px;
+    height: 146px;
+    left: -4px;
+    top: 320px;
+    border: 2px spolid red;
+
+    background: url('image 83.png');
+}
+
+.fish
+{
+    position: absolute;
+    width: 126px;
+    height: 89px;
+    left: 180px;
+    top: 429px;
+
+    background-image: url('image-removebg-preview - 2021-12-05T203816 3.png');
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.submit
+{
+    position: absolute;
+    width: 93px;
+    height: 29px;
+    left: 164px;
+    top: 533px;
+}
+
+#score
+{
+    position: absolute;
+    width: 105px;
+    height: 30px;
+    left: 307px;
+    top: 12px;
+
+    font-family: Fira Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+/* identical to box height */
+    color: #000000;
+}
